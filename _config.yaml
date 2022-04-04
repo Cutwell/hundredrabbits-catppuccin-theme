@@ -1,0 +1,5 @@
+remote_theme: rosario/kasper
+plugins:
+  - jekyll-feed
+title: HundredRabbits Catppuccin Theme
+description: 🐇 Catppuccin theme for the HundredRabbits ecosystem.
