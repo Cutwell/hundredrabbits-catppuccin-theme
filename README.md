@@ -28,8 +28,8 @@
 &nbsp;
 
 <p align="center">
-  <img src="assets/samples/morning.png" width="550" />
-  <img src="assets/samples/night.png" width="550" />
+  <img src="assets/samples/morning.png" width="500" />
+  <img src="assets/samples/night.png" width="500" />
 </p>
 
 &nbsp;
